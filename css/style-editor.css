@@ -1,7 +1,12 @@
+
+/**
+* remove any editor width restrictions so that we can actually edit things in columns
+* @link https://wordpress.org/gutenberg/handbook/extensibility/theme-support/#changing-the-width-of-the-editor
+*/
 body.gutenberg-editor-page .editor-post-title__block,
 body.gutenberg-editor-page .editor-default-block-appender,
 body.gutenberg-editor-page .editor-block-list__block,
 body.gutenberg-editor-page .editor-block-list__block[data-align="wide"],
 body.gutenberg-editor-page .editor-block-list__block[data-align="full"]   {
-    max-width: none !important;
+    max-width: none;
 }
