@@ -1,0 +1,7 @@
+body.gutenberg-editor-page .editor-post-title__block,
+body.gutenberg-editor-page .editor-default-block-appender,
+body.gutenberg-editor-page .editor-block-list__block,
+body.gutenberg-editor-page .editor-block-list__block[data-align="wide"],
+body.gutenberg-editor-page .editor-block-list__block[data-align="full"]   {
+    max-width: none !important;
+}
