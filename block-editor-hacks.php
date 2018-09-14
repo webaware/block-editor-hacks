@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Block Editor Hacks
-Plugin URI:
+Plugin URI: https://github.com/webaware/block-editor-hacks
 Description: hacks like a wider block editor in Gutenberg
 Version: 0.0.1
 Author: WebAware
